@@ -1,4 +1,4 @@
 # PokemonApi consumption app
 
 
-link for the deployed App: https://pokemon-api-consumption.netlify.app/
+link of deployed App: https://pokemon-api-consumption.netlify.app/
